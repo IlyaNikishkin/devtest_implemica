@@ -1,0 +1,1 @@
+call java -jar .\target\implemica_test.jar
